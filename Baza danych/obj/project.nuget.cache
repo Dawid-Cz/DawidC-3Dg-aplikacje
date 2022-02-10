@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJt1I09w3u/wQoSO/P/eMHwpXmIcXAlLKbSi/3d2or7ganP7FzrhQdHs6ixaxYgYKUhsRJoDzFO/WoGnWxdpcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dawid\\Programowanie 3Dg\\klasa-3dg-2021-2022\\Pierwszy projekt\\Baza danych\\Baza danych.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawid\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
