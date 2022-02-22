@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JD0CeepSFLkc4iUeuR6sZBCrIVGbL1E7rPZ0qBfbaCoJZauH8RKABp2p4PfxbRsyMBWEpUn0BiqRS1Y0fpk7mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dawid\\Programowanie 3Dg\\DawidC-3Dg-aplikacje\\Pierwszy projekt\\Pierwszy projekt\\Pierwszy projekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
